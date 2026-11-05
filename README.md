@@ -71,6 +71,7 @@ Without it, outages can go unnoticed.
 ### Request
 
 GET /api/health
+
 ### Successful Response
 ```json
 {
